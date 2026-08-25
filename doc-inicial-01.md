@@ -23,4 +23,4 @@ O app deve só mostrar a carga, ou também avisar ativamente quando ela se forma
 
 Critério de conclusão. Uma lista enxuta de funcionalidades essenciais, cada uma justificada por como ela serve à missão. Se uma função não puder ser justificada, ela não é MVP.
 
-Cuidado clássico a evitar. Não caiam na tentação de listar tudo que "seria legal" (login social, temas, compartilhamento, gamificação...). Isso incha o escopo e mata a entrega. MVP é sobre coragem de cortar.
+Cuidado clássico a evitar. Não caiam na tentação de listar tudo que "seria legal" (login social, temas, compartilhamento, gamificação...). Isso incha o escopo e mata a entrega. 
