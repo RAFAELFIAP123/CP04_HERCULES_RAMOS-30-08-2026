@@ -5,3 +5,5 @@ Estudantes universitários recebem prazos de provas e trabalhos com semanas de a
 Parte 2 — Público-alvo
 
 Estudantes de cursos universitários com alta densidade de entregas paralelas e prazos sobrepostos — perfil típico de instituições como a FIAP, onde o modelo de avaliação combina múltiplas disciplinas com trabalhos contínuos, checkpoints e provas concentrados em janelas curtas de tempo. É um público que já convive com ferramentas digitais de gestão acadêmica (como o Teams e portais institucionais), mas que carece de um instrumento que traduza o volume de compromissos em uma leitura antecipada de sobrecarga. São estudantes digitalmente fluentes, acostumados a apps, e que sentem a dor de forma recorrente ao longo de todo o semestre — o que os torna, ao mesmo tempo, os usuários ideais e a base natural de validação do produto.
+
+Parte 3 - MVP (funcionalidades)
