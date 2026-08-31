@@ -1,6 +1,9 @@
 Num projeto Flutter, a maior parte das pastas é gerada automaticamente pela ferramenta — são estruturas de suporte para cada plataforma (Android, iOS, web) e arquivos de compilação. O trabalho real da equipe fica concentrado em um lugar só: a pasta lib/. É ali que vive praticamente todo o código que define o que o ROTA é e faz. 
 
 
+Link do arquivo: https://fiapcom-my.sharepoint.com/:u:/g/personal/rm564693_fiap_com_br/IQB85V0P_kzeR7YWWez_aGBmAaS0es4eGvJ5uHPz5JMxC4w?e=h4gqBk
+
+
 **Árvore de pastas**
 ```
 rota_app/                         raiz do projeto
