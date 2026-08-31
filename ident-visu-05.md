@@ -1,16 +1,27 @@
 **Paleta de cores:**
 
 Função	Cor	Código aproximado
+
 Azul principal	Azul elétrico	#2864E8
+
 Azul institucional	Azul-marinho	#10192D
+
 Fundo principal	Azul quase preto	#0E172A
+
 Superfícies	Azul-grafite	#202A45
+
 Texto principal	Branco suave	#F4F6FA
+
 Texto secundário	Cinza azulado	#A8B0C3
+
 Sucesso	Verde menta	#42D5A4
+
 Alerta médio	Azul claro	#4F8EF7
+
 Prioridade alta	Coral	#FF6961
+
 Alerta crítico	Vermelho escuro	#73373C
+
 Significado das cores
 Azul-marinho: confiança, concentração e estabilidade;
 Azul elétrico: ação, tecnologia e progresso;
