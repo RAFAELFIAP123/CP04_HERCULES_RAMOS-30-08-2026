@@ -1,61 +1,41 @@
-**Paleta de cores:**
+```
+IDENTIDADE VISUAL — ROTA
 
-Função	Cor	Código aproximado
+PALETA DE CORES
+Função                Cor              Código
+Azul principal        Azul elétrico    #2864E8
+Azul institucional    Azul-marinho     #10192D
+Fundo principal       Azul quase preto #0E172A
+Superfícies           Azul-grafite     #202A45
+Texto principal       Branco suave     #F4F6FA
+Texto secundário      Cinza azulado    #A8B0C3
+Sucesso               Verde menta      #42D5A4
+Alerta médio          Azul claro       #4F8EF7
+Prioridade alta       Coral            #FF6961
+Alerta crítico        Vermelho escuro  #73373C
 
-Azul principal	Azul elétrico	#2864E8
+Acessibilidade: os níveis não dependem só da cor — devem
+aparecer também em texto (Baixa, Média, Alta, Crítica).
 
-Azul institucional	Azul-marinho	#10192D
+TIPOGRAFIA
+Família: Poppins (geométrica, limpa, adequada a produtos digitais)
 
-Fundo principal	Azul quase preto	#0E172A
+Uso                                    Peso
+Logotipo, títulos, saudações           Poppins ExtraBold / Bold
+Botões, etiquetas, nomes de entrega    Poppins SemiBold
+Campos, datas, textos auxiliares       Poppins Regular / Medium
 
-Superfícies	Azul-grafite	#202A45
+ESTILO VISUAL
+Cantos arredondados; cartões modulares; contornos azuis finos;
+fundos escuros; barras verticais de progresso; etiquetas de
+prioridade; ícones simples; contraste elevado; blocos.
 
-Texto principal	Branco suave	#F4F6FA
+ESTILO DE ÍCONES
+Geométrico; simples; preferencialmente em contorno; espessura
+uniforme; poucos detalhes; azul, branco ou verde conforme contexto.
 
-Texto secundário	Cinza azulado	#A8B0C3
+TOM DE VOZ
+Direto e não alarmista; antecipatório (avisa a tempo de agir);
+respeitoso com a autonomia do usuário; econômico nas palavras.
 
-Sucesso	Verde menta	#42D5A4
-
-Alerta médio	Azul claro	#4F8EF7
-
-Prioridade alta	Coral	#FF6961
-
-Alerta crítico	Vermelho escuro	#73373C
-
-
-O sistema não depende apenas das cores: os níveis também devem aparecer por meio de textos como Baixa, Média, Alta e Crítica, garantindo melhor acessibilidade.
-
-**Tipografia:**
-
-A interface apresenta uma tipografia geométrica, limpa e adequada a produtos digitais.
-
-**Usos:**
-
-Poppins ExtraBold/Bold: logotipo, títulos e saudações;
-Poppins SemiBold: botões, etiquetas e nomes das entregas;
-Poppins Regular/Medium: campos, datas e textos auxiliares.
-
-**A linguagem visual utiliza:**
-
-cantos arredondados;
-cartões modulares;
-contornos azuis finos;
-fundos escuros;
-barras verticais de progresso;
-etiquetas de prioridade;
-ícones simples;
-contraste elevado;
-organização em blocos.
-
-As barras semanais funcionam como marcos de uma trajetória. Essa estrutura transforma o calendário acadêmico em uma rota visual, reforçando o conceito da marca em toda a experiência.
-
-**Estilo de ícones**
-
-geométrico;
-simples;
-preferencialmente em contorno;
-espessura uniforme;
-poucos detalhes;
-azul, branco ou verde conforme o contexto.
-
-
+```
