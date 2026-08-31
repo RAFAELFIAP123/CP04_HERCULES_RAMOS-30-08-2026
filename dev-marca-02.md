@@ -1,8 +1,8 @@
-**Nome**
+**Nome:**
 
 ROTA
 
-**Naming rationale**
+**Naming rationale:**
 
 O nome ROTA representa o caminho acadêmico percorrido pelo estudante até a conclusão do curso. A plataforma transforma disciplinas, entregas, semanas letivas e períodos críticos em uma jornada visual, ajudando o aluno a entender:
 
@@ -13,15 +13,15 @@ qual caminho precisa seguir para concluir o curso.
 
 É um nome curto, memorável e diretamente relacionado à proposta do produto de seguirmos um caminho que não nos condene a prazos ou falta de informação
 
-**Posicionamento**
+**Posicionamento:**
 
 ROTA é uma plataforma de organização acadêmica que transforma a carga do semestre em um caminho visual, simples e previsível.
 
-**Propósito**
+**Propósito:**
 
 Reduzir a ansiedade acadêmica ao oferecer clareza sobre prazos, prioridades e progresso.
 
-**Personalidade da marca**
+**Personalidade da marca:**
 
 A marca é:
 
@@ -34,7 +34,7 @@ acolhedora;
 motivadora, sem ser infantil.
 
 
-**Tom de voz**
+**Tom de voz:**
 
 O tom priorizamos em ser direto, próximo e encorajador. A comunicação informa o que precisa ser feito e mostra o próximo passo com clareza.
 
@@ -49,7 +49,7 @@ termos ligados a caminho, avanço e direção.
 
 
 
-**Exemplos de comunicação**
+**Exemplos de comunicação:**
 
 **Boas-vindas**
 
