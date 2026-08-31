@@ -22,13 +22,6 @@ Prioridade alta	Coral	#FF6961
 
 Alerta crítico	Vermelho escuro	#73373C
 
-Significado das cores
-Azul-marinho: confiança, concentração e estabilidade;
-Azul elétrico: ação, tecnologia e progresso;
-Verde: tarefa concluída ou período sob controle;
-Coral: prioridade alta e prazo próximo;
-Vermelho escuro: situação crítica que exige ação;
-Branco: clareza e contraste.
 
 O sistema não depende apenas das cores: os níveis também devem aparecer por meio de textos como Baixa, Média, Alta e Crítica, garantindo melhor acessibilidade.
 
