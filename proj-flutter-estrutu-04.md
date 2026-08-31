@@ -1,5 +1,5 @@
 **Árvore de pastas**
-
+```
 rota_app/                         raiz do projeto
 │
 ├── lib/                          ★ o coração — todo o código Dart do app
