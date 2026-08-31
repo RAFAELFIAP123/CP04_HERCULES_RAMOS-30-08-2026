@@ -38,7 +38,7 @@ motivadora, sem ser infantil.
 
 O tom priorizamos em ser direto, próximo e encorajador. A comunicação informa o que precisa ser feito e mostra o próximo passo com clareza.
 
-Características:**
+**Características:**
 
 frases curtas;
 linguagem simples;
